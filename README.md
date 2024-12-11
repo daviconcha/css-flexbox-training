@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Real Estate Agency Template</title>
 </head>
 <body>
 
@@ -78,7 +77,7 @@
 
   <h2>Example View</h2>
   <p>Here's an example of how the template looks:</p>
-  <img src="assets/img/living-room.jpg" alt="Living Room Example" style="max-width: 100%; height: auto; border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/65a35548-92ec-4d38-b367-2962ca6db5ac" alt="Living Room Example" style="max-width: 100%; height: auto; border-radius: 10px;" />
 
   <h2>Conclusion</h2>
   <p>This template provides a solid foundation to create a simple yet effective real estate website. Customize it to meet your needs and offer an amazing experience to your users.</p>
